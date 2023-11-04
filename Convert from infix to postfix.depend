@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698969247 source:d:\programming\data structure\convert from infix to postfix\main.c
+	<stdio.h>
+	<stdlib.h>
+
